@@ -33,7 +33,7 @@ public class SkrivBilagsnummerPdfUtils {
                 contentStream.close();
             }
 
-            Path path = Paths.get(outputFolder, file.getName().replace(".pdf", ""), file1.getName().substring(0, 4), ".pdf");
+            Path path = Paths.get(outputFolder, file1.getName().substring(0, 4) + ".pdf");
 
             document.save(path.toFile());
             document.close();
