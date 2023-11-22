@@ -1,3 +1,6 @@
+Prosjektet er ikke i bruk lenger, og derfor arkivert.
+
+
 # Matrix utils
 
 Prosjektet automatiserer en del av arbeidet med å sammenstille dokumentasjon for regnskap ført i Matrix
